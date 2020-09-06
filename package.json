@@ -2,7 +2,7 @@
   "name": "node-inline-telegram-bot",
   "version": "1.0.0",
   "description": "Telegram Bot Boilerplate",
-  "main": "dist/index.js",
+  "main": "app.js",
   "author": "Ivan Katkov <vanya6537@mail.ru> (http://linkedin.com/in/ivan-katkov/)",
   "homepage": "https://github.com/vanya6537/node-inline-telegram-bot",
   "scripts": {
