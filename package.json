@@ -6,7 +6,7 @@
   "author": "Ivan Katkov <vanya6537@mail.ru> (http://linkedin.com/in/ivan-katkov/)",
   "homepage": "https://github.com/vanya6537/node-inline-telegram-bot",
   "scripts": {
-    "start": "BOT_TOKEN=${BOT_TOKEN} CHANNEL_ID=${CHANNEL_ID} node app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "telegraf": "^3.38.0"
